@@ -1254,9 +1254,13 @@ nienazwane3_autogen/timestamp: \
 	/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
 	/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/moc_predefs.h \
+	/Users/mateuszmisiak/nienazwane3/combinedwidget.cpp \
+	/Users/mateuszmisiak/nienazwane3/combinedwidget.h \
+	/Users/mateuszmisiak/nienazwane3/globals.cpp \
+	/Users/mateuszmisiak/nienazwane3/globals.h \
+	/Users/mateuszmisiak/nienazwane3/horizontalwidget.cpp \
+	/Users/mateuszmisiak/nienazwane3/horizontalwidget.h \
 	/Users/mateuszmisiak/nienazwane3/main.cpp \
 	/Users/mateuszmisiak/nienazwane3/verticalwidget.cpp \
 	/Users/mateuszmisiak/nienazwane3/verticalwidget.h \
-	/Users/mateuszmisiak/nienazwane3/widget.cpp \
-	/Users/mateuszmisiak/nienazwane3/widget.h \
 	/Users/mateuszmisiak/Qt/Tools/CMake/CMake.app/Contents/bin/cmake

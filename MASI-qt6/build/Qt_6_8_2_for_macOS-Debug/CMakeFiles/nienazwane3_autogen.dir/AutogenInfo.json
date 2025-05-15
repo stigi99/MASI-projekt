@@ -306,6 +306,18 @@
 	"HEADERS" : 
 	[
 		[
+			"/Users/mateuszmisiak/nienazwane3/combinedwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_combinedwidget.cpp",
+			null
+		],
+		[
+			"/Users/mateuszmisiak/nienazwane3/globals.h",
+			"MU",
+			"EWIEGA46WW/moc_globals.cpp",
+			null
+		],
+		[
 			"/Users/mateuszmisiak/nienazwane3/horizontalwidget.h",
 			"MU",
 			"EWIEGA46WW/moc_horizontalwidget.cpp",
@@ -315,12 +327,6 @@
 			"/Users/mateuszmisiak/nienazwane3/verticalwidget.h",
 			"MU",
 			"EWIEGA46WW/moc_verticalwidget.cpp",
-			null
-		],
-		[
-			"/Users/mateuszmisiak/nienazwane3/widget.h",
-			"MU",
-			"EWIEGA46WW/moc_widget.cpp",
 			null
 		]
 	],
@@ -382,10 +388,11 @@
 	"SETTINGS_FILE" : "/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/nienazwane3_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "/Users/mateuszmisiak/nienazwane3/combinedwidget.cpp", "MU", null ],
+		[ "/Users/mateuszmisiak/nienazwane3/globals.cpp", "MU", null ],
 		[ "/Users/mateuszmisiak/nienazwane3/horizontalwidget.cpp", "MU", null ],
 		[ "/Users/mateuszmisiak/nienazwane3/main.cpp", "MU", null ],
-		[ "/Users/mateuszmisiak/nienazwane3/verticalwidget.cpp", "MU", null ],
-		[ "/Users/mateuszmisiak/nienazwane3/widget.cpp", "MU", null ]
+		[ "/Users/mateuszmisiak/nienazwane3/verticalwidget.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

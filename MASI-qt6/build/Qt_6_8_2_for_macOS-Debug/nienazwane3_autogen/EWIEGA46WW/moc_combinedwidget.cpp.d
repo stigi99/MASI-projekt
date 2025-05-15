@@ -1,4 +1,4 @@
-/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/EWIEGA46WW/moc_widget.cpp: /Users/mateuszmisiak/nienazwane3/widget.h \
+/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/EWIEGA46WW/moc_combinedwidget.cpp: /Users/mateuszmisiak/nienazwane3/combinedwidget.h \
   /Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/moc_predefs.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \

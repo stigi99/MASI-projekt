@@ -24,7 +24,7 @@ void VerticalWidget::paintEvent(QPaintEvent *event) {
     painter.drawLine(x - 20, height() - margin, x + 20, height() - margin);
 
     QFont font = painter.font();
-    font.setPointSize(40);
+    font.setPointSize(30);
     painter.setFont(font);
 
     int baseY = height() / 2 - 60;

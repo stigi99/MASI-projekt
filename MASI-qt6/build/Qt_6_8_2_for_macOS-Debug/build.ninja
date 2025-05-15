@@ -65,14 +65,6 @@ build CMakeFiles/nienazwane3.dir/main.cpp.o: CXX_COMPILER__nienazwane3_unscanned
   OBJECT_DIR = CMakeFiles/nienazwane3.dir
   OBJECT_FILE_DIR = CMakeFiles/nienazwane3.dir
 
-build CMakeFiles/nienazwane3.dir/widget.cpp.o: CXX_COMPILER__nienazwane3_unscanned_Debug /Users/mateuszmisiak/nienazwane3/widget.cpp || cmake_object_order_depends_target_nienazwane3
-  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
-  DEP_FILE = CMakeFiles/nienazwane3.dir/widget.cpp.o.d
-  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
-  INCLUDES = -I/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/include -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtCore.framework/Headers -iframework /Users/mateuszmisiak/Qt/6.8.2/macos/lib -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/mkspecs/macx-clang -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/include -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtGui.framework/Headers
-  OBJECT_DIR = CMakeFiles/nienazwane3.dir
-  OBJECT_FILE_DIR = CMakeFiles/nienazwane3.dir
-
 build CMakeFiles/nienazwane3.dir/verticalwidget.cpp.o: CXX_COMPILER__nienazwane3_unscanned_Debug /Users/mateuszmisiak/nienazwane3/verticalwidget.cpp || cmake_object_order_depends_target_nienazwane3
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
   DEP_FILE = CMakeFiles/nienazwane3.dir/verticalwidget.cpp.o.d
@@ -89,6 +81,22 @@ build CMakeFiles/nienazwane3.dir/horizontalwidget.cpp.o: CXX_COMPILER__nienazwan
   OBJECT_DIR = CMakeFiles/nienazwane3.dir
   OBJECT_FILE_DIR = CMakeFiles/nienazwane3.dir
 
+build CMakeFiles/nienazwane3.dir/globals.cpp.o: CXX_COMPILER__nienazwane3_unscanned_Debug /Users/mateuszmisiak/nienazwane3/globals.cpp || cmake_object_order_depends_target_nienazwane3
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/nienazwane3.dir/globals.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  INCLUDES = -I/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/include -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtCore.framework/Headers -iframework /Users/mateuszmisiak/Qt/6.8.2/macos/lib -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/mkspecs/macx-clang -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/include -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/nienazwane3.dir
+  OBJECT_FILE_DIR = CMakeFiles/nienazwane3.dir
+
+build CMakeFiles/nienazwane3.dir/combinedwidget.cpp.o: CXX_COMPILER__nienazwane3_unscanned_Debug /Users/mateuszmisiak/nienazwane3/combinedwidget.cpp || cmake_object_order_depends_target_nienazwane3
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/nienazwane3.dir/combinedwidget.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  INCLUDES = -I/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/include -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtCore.framework/Headers -iframework /Users/mateuszmisiak/Qt/6.8.2/macos/lib -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/mkspecs/macx-clang -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/include -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/nienazwane3.dir
+  OBJECT_FILE_DIR = CMakeFiles/nienazwane3.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target nienazwane3
@@ -97,7 +105,7 @@ build CMakeFiles/nienazwane3.dir/horizontalwidget.cpp.o: CXX_COMPILER__nienazwan
 #############################################
 # Link the executable nienazwane3.app/Contents/MacOS/nienazwane3
 
-build nienazwane3.app/Contents/MacOS/nienazwane3: CXX_EXECUTABLE_LINKER__nienazwane3_Debug CMakeFiles/nienazwane3.dir/nienazwane3_autogen/mocs_compilation.cpp.o CMakeFiles/nienazwane3.dir/main.cpp.o CMakeFiles/nienazwane3.dir/widget.cpp.o CMakeFiles/nienazwane3.dir/verticalwidget.cpp.o CMakeFiles/nienazwane3.dir/horizontalwidget.cpp.o | /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/QtGui /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/QtCore || nienazwane3_autogen nienazwane3_autogen_timestamp_deps
+build nienazwane3.app/Contents/MacOS/nienazwane3: CXX_EXECUTABLE_LINKER__nienazwane3_Debug CMakeFiles/nienazwane3.dir/nienazwane3_autogen/mocs_compilation.cpp.o CMakeFiles/nienazwane3.dir/main.cpp.o CMakeFiles/nienazwane3.dir/verticalwidget.cpp.o CMakeFiles/nienazwane3.dir/horizontalwidget.cpp.o CMakeFiles/nienazwane3.dir/globals.cpp.o CMakeFiles/nienazwane3.dir/combinedwidget.cpp.o | /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/QtGui /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/QtCore || nienazwane3_autogen nienazwane3_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   LINK_LIBRARIES = -Wl,-rpath,/Users/mateuszmisiak/Qt/6.8.2/macos/lib  /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets  /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/QtGui  -framework AGL  -framework AppKit  -framework OpenGL  -framework ImageIO  -framework Metal  /Users/mateuszmisiak/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/QtCore  -framework IOKit  -framework DiskArbitration  -framework UniformTypeIdentifiers
   LINK_PATH = -F/Users/mateuszmisiak/Qt/6.8.2/macos/lib

@@ -8,11 +8,15 @@ qt_standard_project_setup()
 qt_add_executable(nienazwane3
     WIN32 MACOSX_BUNDLE
     main.cpp
-    widget.cpp
-    widget.h
+
+
     verticalwidget.h
     verticalwidget.cpp
     horizontalwidget.h horizontalwidget.cpp
+
+    globals.h
+    globals.cpp
+    combinedwidget.h combinedwidget.cpp
 )
 
 target_link_libraries(nienazwane3
