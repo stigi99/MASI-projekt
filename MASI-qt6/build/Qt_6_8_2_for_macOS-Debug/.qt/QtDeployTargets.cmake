@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_nienazwane3_FILE /Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3.app/Contents/MacOS/nienazwane3)
+set(__QT_DEPLOY_TARGET_nienazwane3_TYPE EXECUTABLE)

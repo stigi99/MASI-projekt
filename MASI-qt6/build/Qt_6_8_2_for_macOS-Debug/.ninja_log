@@ -1,0 +1,10 @@
+# ninja log v6
+104	1834	1747302611274629611	CMakeFiles/nienazwane3.dir/verticalwidget.cpp.o	e8fb2b4321a11f4a
+81	1294	1747302832816630558	CMakeFiles/nienazwane3.dir/main.cpp.o	1ab4597f6e8d3206
+683	2103	1746714024399134410	CMakeFiles/nienazwane3.dir/nienazwane3_autogen/mocs_compilation.cpp.o	afddfe535cfd64ff
+1294	1557	1747302834029119299	nienazwane3.app/Contents/MacOS/nienazwane3	5aa07f4c89eac394
+11	81	1747302832746534913	nienazwane3_autogen/timestamp	8c13447439d348cf
+546	2061	1746636367600181418	CMakeFiles/nienazwane3.dir/widget.cpp.o	8a91d871acc84914
+11	81	1747302832746534913	nienazwane3_autogen/mocs_compilation.cpp	8c13447439d348cf
+11	81	1747302832746534913	/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/mocs_compilation.cpp	8c13447439d348cf
+11	81	1747302832746534913	/Users/mateuszmisiak/nienazwane3/build/Qt_6_8_2_for_macOS-Debug/nienazwane3_autogen/timestamp	8c13447439d348cf
