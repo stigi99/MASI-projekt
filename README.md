@@ -59,11 +59,6 @@ Projekt wymaga środowiska **Qt 6** (z modułami $QtWidgets$, $QtSql$, $QtGui$).
 2.  **Kompilacja (Qt Creator lub wiersz poleceń):**
 
       * Użyj **Qt Creator** do otwarcia pliku `.pro` i zbudowania projektu.
-      * Alternatywnie, użyj **qmake** (w środowisku z ustawioną ścieżką do Qt 6):
-        ```bash
-        qmake
-        make
-        ```
 
 3.  **Uruchomienie:**
 
