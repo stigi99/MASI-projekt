@@ -69,13 +69,13 @@ Projekt wymaga środowiska **Qt 6** (z modułami $QtWidgets$, $QtSql$, $QtGui$).
 
 ## 🖼️ Zrzuty Ekranu
 
-| Funkcjonalność | Opis | Wizualizacja |
-| :--- | :--- | :--- |
-| **Uniterm Poziomy** | Reprezentacja $A ; B ; u - ?$ po wprowadzeniu danych. |  |
-| **Uniterm Poziomy i Pionowy** | Jednoczesna prezentacja obu struktur eliminowania unitermów. |  |
-| **Okno Wyboru Zamiany** | Interaktywny wybór wariantu transformacji: "Zamień za A" lub "Zamień za B". |  |
-| **Wynik Zamiany za B** | Graficzny rezultat transformacji: pionowy uniterm osadzony w miejscu operandu B. |  |
-| **Podgląd Zapisów** | Widok tabelaryczny wszystkich archiwizowanych rekordów z bazy SQLite. |  |
+| Funkcjonalność | Opis |
+| :--- | :--- | 
+| **Uniterm Poziomy** | Reprezentacja $A ; B ; u - ?$ po wprowadzeniu danych. |  
+| **Uniterm Poziomy i Pionowy** | Jednoczesna prezentacja obu struktur eliminowania unitermów. |  
+| **Okno Wyboru Zamiany** | Interaktywny wybór wariantu transformacji: "Zamień za A" lub "Zamień za B". |  
+| **Wynik Zamiany za B** | Graficzny rezultat transformacji: pionowy uniterm osadzony w miejscu operandu B. |  
+| **Podgląd Zapisów** | Widok tabelaryczny wszystkich archiwizowanych rekordów z bazy SQLite. |  
 
 -----
 
