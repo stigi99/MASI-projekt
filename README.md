@@ -67,7 +67,6 @@ Projekt wymaga środowiska **Qt 6** (z modułami $QtWidgets$, $QtSql$, $QtGui$).
 
 -----
 
-## 🖼️ Zrzuty Ekranu
 
 | Funkcjonalność | Opis |
 | :--- | :--- | 
